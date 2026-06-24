@@ -1,12 +1,16 @@
 import { motion } from 'framer-motion'
 import { BadgeCheck, Sparkles, Headset } from 'lucide-react'
 import { fadeUp, scaleIn, viewportOnce } from '../../utils/motion'
+import { destinations } from '../../data/destinations'
 
 const points = [
   { icon: BadgeCheck, label: 'Trusted Travel Partner' },
   { icon: Sparkles, label: 'Spiritual Tourism Experts' },
   { icon: Headset, label: '24×7 Customer Support' },
 ]
+
+const jagannathImage = destinations.find((d) => d.id === 'jagannath-temple')?.image
+const khandagiriImage = destinations.find((d) => d.id === 'khandagiri-udayagiri')?.image
 
 export default function About() {
   return (
@@ -21,8 +25,8 @@ export default function About() {
           className="relative"
         >
           <img
-            src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=1200&auto=format&fit=crop"
-            alt="Comfortable Odisha travel experience"
+            src={jagannathImage}
+            alt="Jagannath Temple, Puri"
             loading="lazy"
             className="h-[480px] w-full rounded-[2rem] object-cover shadow-soft"
           />
@@ -31,8 +35,8 @@ export default function About() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={viewportOnce}
             transition={{ delay: 0.3 }}
-            src="https://images.unsplash.com/photo-1598935898639-81586f7d2129?q=80&w=700&auto=format&fit=crop"
-            alt="Temple detail"
+            src={khandagiriImage}
+            alt="Khandagiri & Udayagiri Caves"
             loading="lazy"
             className="absolute -bottom-8 -left-6 hidden h-56 w-44 rounded-2xl border-8 border-cream object-cover shadow-soft md:block"
           />

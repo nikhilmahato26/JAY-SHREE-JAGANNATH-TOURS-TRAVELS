@@ -3,10 +3,8 @@ import { Sparkles, ArrowRight, Car, Headset, ShieldCheck, Landmark, Users } from
 import Button from '../common/Button'
 import { fadeUp, staggerContainer } from '../../utils/motion'
 
-const HERO_VIDEO =
-  'https://cdn.coverr.co/videos/coverr-an-aerial-view-of-a-temple-1080p.mp4'
-const HERO_POSTER =
-  'https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=2000&auto=format&fit=crop'
+const HERO_IMAGE =
+  'https://www.trawell.in/admin/images/upload/028874969Konark_Main.jpg'
 
 const cardItems = [
   { icon: Headset, label: '24×7 Support' },
@@ -23,23 +21,16 @@ export default function Hero() {
 
   return (
     <section id="home" className="relative flex min-h-screen items-center overflow-hidden">
-      {/* Background video with parallax */}
-      <motion.div style={{ y: yParallax }} className="absolute inset-0 -z-20">
-        <video
+      {/* Background image with parallax */}
+      <motion.div  className="absolute  h-full w-full" style={{ y: yParallax }}>
+        <img
+          src={HERO_IMAGE}
+          alt="Konark Sun Temple, Odisha"
           className="h-full w-full object-cover"
-          autoPlay
-          muted
-          loop
-          playsInline
-          poster={HERO_POSTER}
-        >
-          <source src={HERO_VIDEO} type="video/mp4" />
-        </video>
+        />
       </motion.div>
 
-      {/* Gradient overlay */}
-      <div className="absolute inset-0 -z-10 bg-gradient-to-r from-navy/85 via-navy/55 to-navy/20" />
-      <div className="absolute inset-0 -z-10 bg-gradient-to-t from-navy/70 via-transparent to-transparent" />
+
 
       <div className="mx-auto grid w-[92%] max-w-7xl items-center gap-12 pt-28 pb-20 lg:grid-cols-[1.15fr_0.85fr]">
         {/* Left content */}

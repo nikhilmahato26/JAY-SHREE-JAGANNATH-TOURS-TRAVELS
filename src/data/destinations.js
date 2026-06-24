@@ -50,7 +50,7 @@ export const destinations = [
     location: 'Bhubaneswar',
     description: 'Ancient rock-cut caves with deep historical significance.',
     image:
-      'https://www.mypuritour.com/wp-content/uploads/2022/05/Udaygiri-Khandagiri-Caves.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Udayagiri_and_Khandagiri_Caves_2024_04.jpg/1280px-Udayagiri_and_Khandagiri_Caves_2024_04.jpg',
     highlights: ['Jain Heritage', 'Ancient Architecture', 'Historical Exploration'],
   },
   {

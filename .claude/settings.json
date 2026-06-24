@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_context-mode_context-mode__ctx_execute",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' -L --max-time 20 'https://alternativetoursindia.com/wp-content/uploads/2018/10/konark-sun-temple-odisha.jpg')",
+      "Bash(echo \"$\\(curl -s -o /dev/null -w '%{http_code}' -L --max-time 20 'https://alternativetoursindia.com/wp-content/uploads/2018/10/konark-sun-temple-odisha.jpg'\\)  konark\")"
+    ]
+  }
+}
