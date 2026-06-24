@@ -5,7 +5,7 @@ export const destinations = [
     location: 'Puri',
     description: "One of India's most sacred Char Dham pilgrimage destinations.",
     image:
-      'https://images.unsplash.com/photo-1609920658906-8223bd289001?q=80&w=1400&auto=format&fit=crop',
+      'https://www.incredibleindia-tourism.org/images/pilgrimage-tours/puri.jpg',
     highlights: ['Mahaprasad', 'Temple Darshan', 'Spiritual Experience', 'Cultural Heritage'],
   },
   {
@@ -14,7 +14,7 @@ export const destinations = [
     location: 'Konark',
     description: 'UNESCO World Heritage Site known for its magnificent architecture.',
     image:
-      'https://images.unsplash.com/photo-1624461764645-1e5394d3f6a3?q=80&w=1400&auto=format&fit=crop',
+      'https://cdn.britannica.com/19/251919-050-D3E64798/konark-sun-temple-orissa-india-unesco-heritage-site.jpg',
     highlights: ['Ancient Sun Temple', 'Stone Carvings', 'UNESCO Heritage Monument'],
   },
   {
@@ -32,7 +32,7 @@ export const destinations = [
     location: 'Konark',
     description: "One of Odisha's most scenic beaches near Konark.",
     image:
-      'https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1400&auto=format&fit=crop',
+      'https://uncharttedescape.com/wp-content/uploads/2025/01/golden-sunset-at-chandrabhaga-beach-odisha.webp',
     highlights: ['Photography Spot', 'Peaceful Atmosphere', 'Sunrise Point'],
   },
   {
@@ -41,7 +41,7 @@ export const destinations = [
     location: 'Bhubaneswar',
     description: 'Historic Buddhist peace pagoda overlooking the Daya river.',
     image:
-      'https://images.unsplash.com/photo-1545126178-862cdb469409?q=80&w=1400&auto=format&fit=crop',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Shanti_Stupa_%28Peace_Pagoda%29_at_Dhauligiri%2C_Odisha%2C_India_1.jpg/330px-Shanti_Stupa_%28Peace_Pagoda%29_at_Dhauligiri%2C_Odisha%2C_India_1.jpg',
     highlights: ['Peace Pagoda', 'Buddhist Heritage', 'Panoramic Views'],
   },
   {
@@ -50,7 +50,7 @@ export const destinations = [
     location: 'Bhubaneswar',
     description: 'Ancient rock-cut caves with deep historical significance.',
     image:
-      'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=1400&auto=format&fit=crop',
+      'https://www.mypuritour.com/wp-content/uploads/2022/05/Udaygiri-Khandagiri-Caves.jpg',
     highlights: ['Jain Heritage', 'Ancient Architecture', 'Historical Exploration'],
   },
   {
@@ -59,7 +59,7 @@ export const destinations = [
     location: 'Bhubaneswar',
     description: "One of India's most famous zoological parks & white tiger sanctuary.",
     image:
-      'https://images.unsplash.com/photo-1518391846015-55a9cc003b25?q=80&w=1400&auto=format&fit=crop',
+      'https://static.toiimg.com/thumb/86952785.cms?resizemode=75&width=1200&height=900',
     highlights: ['White Tigers', 'Safari Experience', 'Wildlife Conservation'],
   },
   {
@@ -68,7 +68,7 @@ export const destinations = [
     location: 'Puri',
     description: 'Traditional artisan village famous for Pattachitra paintings.',
     image:
-      'https://images.unsplash.com/photo-1578321272176-b7bbc0679853?q=80&w=1400&auto=format&fit=crop',
+      'https://bhubaneswartourism.in/images/places-to-visit/headers/raghurajpur-artist-village-header-puri-tourism.jpg',
     highlights: ['Traditional Arts', 'Handicrafts', 'Heritage Walk'],
   },
 ]

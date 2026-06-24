@@ -19,21 +19,21 @@ export const services = [
     desc: 'Curated multi-day journeys across the best of Odisha.',
     icon: MapPinned,
     image:
-      'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1100&auto=format&fit=crop',
+      'https://s7ap1.scene7.com/is/image/incredibleindia/lingaraj-temple-bhubaneshwar-odisha-3-musthead-hero?qlt=82&ts=1742180364374',
   },
   {
     title: 'Jagannath Temple Tours',
     desc: 'Devotional darshan trips to the holy Char Dham of Puri.',
     icon: Landmark,
     image:
-      'https://images.unsplash.com/photo-1609920658906-8223bd289001?q=80&w=1100&auto=format&fit=crop',
+      'https://www.tripsavvy.com/thmb/CqvMyrnnVy5fNLFYTr5zW13s-XE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/_DSC0713_Snapseed_Darkroom-819d0b229974460e8141622c4494e2ed.jpg',
   },
   {
     title: 'Spiritual & Pilgrimage Tours',
     desc: 'Soulful pilgrimages with rituals, mahaprasad & guidance.',
     icon: Sparkles,
     image:
-      'https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=1100&auto=format&fit=crop',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxLr_eFWSIp7eUxzgMIGkkzAWCYIhU_sYow&s',
   },
   {
     title: 'Family Vacations',
@@ -54,7 +54,7 @@ export const services = [
     desc: 'Professional, punctual transport for teams & offsites.',
     icon: Briefcase,
     image:
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1100&auto=format&fit=crop',
+      'https://media.licdn.com/dms/image/v2/D4E12AQEFL4FnVku8ag/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693669896528?e=2147483647&v=beta&t=VDWdkK0NVouLx5IaU8naCVcEHODakj2nilGDui-WP6U',
   },
   {
     title: 'Airport Pickup & Drop',
@@ -82,7 +82,7 @@ export const services = [
     desc: 'Explore every iconic spot with a knowledgeable driver.',
     icon: Camera,
     image:
-      'https://images.unsplash.com/photo-1545126178-862cdb469409?q=80&w=1100&auto=format&fit=crop',
+      'https://cdn.britannica.com/19/251919-050-D3E64798/konark-sun-temple-orissa-india-unesco-heritage-site.jpg',
   },
   {
     title: 'Outstation Travel',

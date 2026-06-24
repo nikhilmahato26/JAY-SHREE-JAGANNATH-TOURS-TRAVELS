@@ -21,7 +21,7 @@ export default function Home() {
       <Fleet />
       <WhyChooseUs />
       <Testimonials />
-      <Gallery />
+      {/* <Gallery /> */}
       <BookingCTA />
       <Contact />
     </>

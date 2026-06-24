@@ -4,7 +4,7 @@ export const fleet = [
     name: 'Maruti Suzuki Dzire',
     tier: 'Sedan',
     image:
-      'https://images.unsplash.com/photo-1549924231-f129b911e442?q=80&w=1100&auto=format&fit=crop',
+      'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/170173/dzire-exterior-right-front-three-quarter-27.png?isig=0&q=80&q=80',
     bestFor: ['Airport Transfers', 'Business Trips', 'Small Families'],
     features: ['Air Conditioned', 'Comfortable Seating', 'Fuel Efficient'],
   },
@@ -13,7 +13,7 @@ export const fleet = [
     name: 'Maruti Suzuki Ertiga',
     tier: 'MUV · 7 Seater',
     image:
-      'https://images.unsplash.com/photo-1485291571150-772bcfc10da5?q=80&w=1100&auto=format&fit=crop',
+      'https://cdn.carhp.in/nexa/maruti_suzuki_ertiga_pearl_metallic_arctic_white.jpg?format=webp&width=800&q=75',
     bestFor: ['Family Tours', 'Group Travel', 'Pilgrimage Trips'],
     features: ['Spacious Cabin', 'Extra Luggage', 'Long Distance Comfort'],
   },
@@ -22,7 +22,7 @@ export const fleet = [
     name: 'Toyota Innova',
     tier: 'Premium SUV',
     image:
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1100&auto=format&fit=crop',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6kfYyBWYqhAnx1tyE4RNmbAT0O0RGYk0BQ&s',
     bestFor: ['Premium Family Tours', 'Corporate Travel', 'Long Distance Travel'],
     features: ['Luxury Comfort', 'Spacious Interior', 'Professional Experience'],
   },
@@ -31,7 +31,7 @@ export const fleet = [
     name: 'Tata Winger',
     tier: 'Mini Van · 13 Seater',
     image:
-      'https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?q=80&w=1100&auto=format&fit=crop',
+      'https://cdn.bluebirdtravels.in/wp-content/uploads/2017/01/Tata_Winger_PI.jpg',
     bestFor: ['Group Tours', 'Corporate Travel', 'Pilgrimage Groups'],
     features: ['Large Seating Capacity', 'Comfortable Group Travel'],
   },
@@ -40,7 +40,7 @@ export const fleet = [
     name: 'Chevrolet Tavera',
     tier: 'SUV',
     image:
-      'https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=1100&auto=format&fit=crop',
+      'https://stimg.cardekho.com/images/car-images/large/Chevrolet/Chevrolet-Tavera/Sandrift-Grey.jpg?tr=w-420',
     bestFor: ['Family Trips', 'Outstation Travel', 'Group Transportation'],
     features: ['Comfortable Ride', 'Reliable Performance'],
   },
@@ -49,7 +49,7 @@ export const fleet = [
     name: 'Force Urbania',
     tier: 'Luxury Van',
     image:
-      'https://images.unsplash.com/photo-1570125909232-eb263c188f7e?q=80&w=1100&auto=format&fit=crop',
+      'https://cdn.motorbazee.com/ImageData/model/800x600/195439.jpg',
     bestFor: ['Luxury Group Tours', 'Corporate Tours', 'Pilgrimage Groups'],
     features: ['Premium Interiors', 'Spacious Seating', 'Modern Comfort'],
   },
