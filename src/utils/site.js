@@ -1,7 +1,7 @@
 // Central business / brand configuration
 export const SITE = {
-  name: 'Jay Shree Jagannath Tours & Travels',
-  shortName: 'Jay Shree Jagannath',
+  name: 'Jagannath Puri Tour and Travel Agency',
+  shortName: 'Jagannath Puri Tours',
   tagline: 'Jay Shree Jagannath 🙏',
   footerTagline: 'Creating Comfortable Journeys & Divine Experiences Across Odisha',
   phone: '+91 9337122699',

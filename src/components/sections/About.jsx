@@ -60,7 +60,7 @@ export default function About() {
             Odisha Travel Made Comfortable
           </h2>
           <p className="mt-6 font-serif text-lg leading-relaxed text-navy/70 md:text-xl">
-            Jay Shree Jagannath Tours &amp; Travels specializes in comfortable spiritual tours,
+            Jagannath Puri Tour and Travel Agency specializes in comfortable spiritual tours,
             family vacations, pilgrimage tours, Odisha sightseeing, group travel, and transportation
             services across Odisha.
           </p>

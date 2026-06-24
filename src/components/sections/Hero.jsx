@@ -4,7 +4,7 @@ import Button from '../common/Button'
 import { fadeUp, staggerContainer } from '../../utils/motion'
 
 const HERO_IMAGE =
-  'https://www.trawell.in/admin/images/upload/028874969Konark_Main.jpg'
+  'https://images.pexels.com/photos/27286530/pexels-photo-27286530.jpeg'
 
 const cardItems = [
   { icon: Headset, label: '24×7 Support' },
