@@ -54,6 +54,15 @@ export const destinations = [
     highlights: ['Jain Heritage', 'Ancient Architecture', 'Historical Exploration'],
   },
   {
+    id: 'chilka-lake',
+    name: 'Chilka Lake',
+    location: 'Puri',
+    description: 'Largest brackish water lagoon in Asia known for migratory birds and dolphins.',
+    image:
+      'https://inditales.com/wp-content/uploads/2026/02/chilka-lake-odisha.jpg',
+    highlights: ['Irrawaddy Dolphins', 'Bird Watching', 'Boating'],
+  },
+  {
     id: 'nandankanan-zoo',
     name: 'Nandankanan Zoo',
     location: 'Bhubaneswar',

@@ -22,12 +22,13 @@ export default function Hero() {
   return (
     <section id="home" className="relative flex min-h-screen items-center overflow-hidden">
       {/* Background image with parallax */}
-      <motion.div  className="absolute  h-full w-full" style={{ y: yParallax }}>
+      <motion.div className="absolute  h-full w-full" style={{ y: yParallax }}>
         <img
           src={HERO_IMAGE}
           alt="Konark Sun Temple, Odisha"
           className="h-full w-full object-cover"
         />
+        <div className="absolute inset-0 bg-black/60" />
       </motion.div>
 
 
