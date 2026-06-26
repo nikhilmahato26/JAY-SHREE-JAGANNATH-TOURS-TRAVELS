@@ -27,7 +27,7 @@ export default function Attractions() {
               variants={fadeUp()}
               whileHover={{ y: -8 }}
               className={`group relative overflow-hidden rounded-3xl shadow-glass ${
-                i % 5 === 0 ? 'sm:col-span-2 sm:row-span-1' : ''
+                i % 3 === 0 ? 'sm:col-span-2 sm:row-span-1' : ''
               }`}
             >
               <div className="relative h-80 overflow-hidden">

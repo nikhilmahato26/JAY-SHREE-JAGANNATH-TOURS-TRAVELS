@@ -59,7 +59,7 @@ export const destinations = [
     location: 'Puri',
     description: 'Largest brackish water lagoon in Asia known for migratory birds and dolphins.',
     image:
-      'https://inditales.com/wp-content/uploads/2026/02/chilka-lake-odisha.jpg',
+      'https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1400&auto=format&fit=crop',
     highlights: ['Irrawaddy Dolphins', 'Bird Watching', 'Boating'],
   },
   {
