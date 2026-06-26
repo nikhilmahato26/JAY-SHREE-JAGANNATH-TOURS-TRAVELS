@@ -59,7 +59,7 @@ export const destinations = [
     location: 'Puri',
     description: 'Largest brackish water lagoon in Asia known for migratory birds and dolphins.',
     image:
-      'https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1400&auto=format&fit=crop',
+      'https://localdrive.in/wp-content/uploads/2025/07/Chilika-Lake-Odisha-A-Journey-Through-Heritage-Legends-Scenic-Beauty-1024x576.webp',
     highlights: ['Irrawaddy Dolphins', 'Bird Watching', 'Boating'],
   },
   {
